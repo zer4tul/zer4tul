@@ -15,9 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-### Hi there 👋!
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=zer4tul&show_icons=true&theme=gruvbox)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zer4tul&theme=gruvbox&layout=compact)
